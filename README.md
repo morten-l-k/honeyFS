@@ -7,11 +7,13 @@ It is recommended to create a virtual environment before installing the dependen
 
 ```bash
 python3 -m venv venv
-source venv/bin/activate ``` #On Windows use `venv\Scripts\activate`
+source venv/bin/activate # On Windows use `venv\Scripts\activate`
+```
 
 ## Installation
 
 To install the required dependencies, run the following command:
 
 ```bash
-pip install -r requirements.txt ```
+pip install -r requirements.txt 
+```
